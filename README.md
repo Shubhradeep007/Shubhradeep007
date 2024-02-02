@@ -1,5 +1,11 @@
 # Hi, I am Shubradeep! 
-A passionate Full Stack developer from India
+Coding enthusiast with two years of hands-on experience in Java
+and Angular development at LTIMindtree. Proven track record in
+crafting high-performance Java applications and designing
+responsive user interfaces with Angular. Skilled in optimizing code
+for efficiency and ensuring cross-browser compatibility. Collaborative team player with a commitment to staying current
+with industry trends and technologies.
+
 # 💫 About Me:
 👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br>👩🏻‍🎓 Studied Computer Application at the Kazi Nazrul University, Asansol<br>🎨 Love to Making videos on Gaming<br>💭 Currently learning about UI/UX design and Cyber Security
 
