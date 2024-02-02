@@ -1,4 +1,5 @@
-## Hi, I am Shubradeep Bose
+# Hi, I am Shubradeep Bose
+A passionate Full Stack developer from India
 # 💫 About Me:
 👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br>👩🏻‍🎓 Studied Computer Application at the Kazi Nazrul University, Asansol<br>🎨 Love to Making videos on Gaming<br>💭 Currently learning about UI/UX design and Cyber Security
 
