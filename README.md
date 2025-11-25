@@ -1,4 +1,4 @@
-# Hi, I am Shubradeep! 
+# Hi, I am Shubhradeep! 
 Coding enthusiast with two years of hands-on experience in Java
 and Angular development at LTIMindtree. Proven track record in
 crafting high-performance Java applications and designing
